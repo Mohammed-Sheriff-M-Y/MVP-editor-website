@@ -1,0 +1,7 @@
+Flask
+Werkzeug
+kivy
+requests
+Pillow
+playwright
+python-docx
